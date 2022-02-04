@@ -6,7 +6,7 @@ from os import wait
 import sys
 sys.path.append('/home/pi/.local/lib/python3.5/site-packages')
 import numpy as np
-import argparse
+import argparse  
 import cv2
 import datetime
 # construct the argument parse and parse the arguments
