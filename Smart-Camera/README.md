@@ -23,7 +23,7 @@ which will save a image from the camera in your current directory. You can open 
 
 ## Installing Dependencies
 
-This project uses openCV to detect objects in the video feed. You can install openCV by using the following [tutorial](http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/). I used the Python 2.7 version of the tutorial.
+This project uses openCV to detect objects in the video feed. You should install opencv on Raspberry Pi. Look for a tuturial in Google. 
 
 
 Next, navigate to the repository directory
